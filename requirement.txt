@@ -55,7 +55,6 @@ et-xmlfile==1.0.1
 exchangelib==3.1.1
 fastcache==1.1.0
 filelock==3.0.12
-flasgger==0.9.4
 Flask==1.1.1
 Flask-Cors==3.0.8
 fsspec==0.5.2
